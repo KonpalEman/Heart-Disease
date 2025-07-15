@@ -1,0 +1,6 @@
+Name,Age,Sex,Chest Pain,BP,Cholesterol,Fasting Sugar,ECG,Max HR,Angina,ST Depression,Slope,Vessels,Thalassemia,Prediction,Risk %,Timestamp
+Ali,30,Male,Typical Angina,120,200,Yes,Normal,150,Yes,1.0,Upsloping,0,Normal,Yes,71.76%,2025-07-15 14:09:04
+Abdullah,30,Male,Typical Angina,120,200,Yes,Normal,150,Yes,1.0,Upsloping,0,Normal,Yes,71.76%,2025-07-15 14:11:44
+Hadia,20,Female,Non-anginal Pain,120,200,No,Normal,150,No,1.0,Upsloping,0,Normal,No,6.04%,2025-07-15 14:12:42
+Ahmed,20,Male,Non-anginal Pain,120,200,No,Normal,150,No,1.0,Upsloping,0,Normal,No,22.47%,2025-07-15 14:13:42
+Muneeb,20,Male,Non-anginal Pain,120,200,No,Normal,150,No,1.0,Upsloping,0,Normal,No,22.47%,2025-07-15 14:13:57

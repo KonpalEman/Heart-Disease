@@ -1,0 +1,393 @@
+[
+    {
+        "name": "Asmat ",
+        "input": {
+            "Age": 45,
+            "Sex": "M",
+            "ChestPainType": "TA",
+            "RestingBP": 150,
+            "Cholesterol": 300,
+            "FastingBS": 1,
+            "RestingECG": "Normal",
+            "MaxHR": 142,
+            "ExerciseAngina": "Y",
+            "Oldpeak": 1.0,
+            "ST_Slope": "Up"
+        },
+        "prediction": 0
+    },
+    {
+        "name": "Asmat ",
+        "input": {
+            "Age": 45,
+            "Sex": "M",
+            "ChestPainType": "TA",
+            "RestingBP": 150,
+            "Cholesterol": 300,
+            "FastingBS": 1,
+            "RestingECG": "Normal",
+            "MaxHR": 142,
+            "ExerciseAngina": "Y",
+            "Oldpeak": 1.0,
+            "ST_Slope": "Flat"
+        },
+        "prediction": 0
+    },
+    {
+        "name": "Asmat ",
+        "input": {
+            "Age": 45,
+            "Sex": "M",
+            "ChestPainType": "TA",
+            "RestingBP": 150,
+            "Cholesterol": 300,
+            "FastingBS": 1,
+            "RestingECG": "Normal",
+            "MaxHR": 142,
+            "ExerciseAngina": "Y",
+            "Oldpeak": 1.0,
+            "ST_Slope": "Down"
+        },
+        "prediction": 0
+    },
+    {
+        "name": "Asmat ",
+        "input": {
+            "Age": 45,
+            "Sex": "M",
+            "ChestPainType": "TA",
+            "RestingBP": 150,
+            "Cholesterol": 300,
+            "FastingBS": 1,
+            "RestingECG": "Normal",
+            "MaxHR": 142,
+            "ExerciseAngina": "N",
+            "Oldpeak": 1.0,
+            "ST_Slope": "Down"
+        },
+        "prediction": 0
+    },
+    {
+        "name": "Asmat ",
+        "input": {
+            "Age": 45,
+            "Sex": "M",
+            "ChestPainType": "TA",
+            "RestingBP": 150,
+            "Cholesterol": 300,
+            "FastingBS": 1,
+            "RestingECG": "Normal",
+            "MaxHR": 142,
+            "ExerciseAngina": "N",
+            "Oldpeak": 1.0,
+            "ST_Slope": "Flat"
+        },
+        "prediction": 0
+    },
+    {
+        "name": "konpal",
+        "input": {
+            "Age": 30,
+            "Sex": "M",
+            "ChestPainType": "TA",
+            "RestingBP": 120,
+            "Cholesterol": 200,
+            "FastingBS": 0,
+            "RestingECG": "Normal",
+            "MaxHR": 150,
+            "ExerciseAngina": "Y",
+            "Oldpeak": 1.0,
+            "ST_Slope": "Up"
+        },
+        "prediction": 0
+    },
+    {
+        "name": "konpal",
+        "input": {
+            "Age": 30,
+            "Sex": "M",
+            "ChestPainType": "TA",
+            "RestingBP": 120,
+            "Cholesterol": 200,
+            "FastingBS": 0,
+            "RestingECG": "Normal",
+            "MaxHR": 150,
+            "ExerciseAngina": "Y",
+            "Oldpeak": 1.0,
+            "ST_Slope": "Up"
+        },
+        "prediction": 0
+    },
+    {
+        "name": "konpal",
+        "input": {
+            "Age": 30,
+            "Sex": "M",
+            "ChestPainType": "TA",
+            "RestingBP": 120,
+            "Cholesterol": 200,
+            "FastingBS": 0,
+            "RestingECG": "Normal",
+            "MaxHR": 150,
+            "ExerciseAngina": "Y",
+            "Oldpeak": 1.0,
+            "ST_Slope": "Up"
+        },
+        "prediction": 0
+    },
+    {
+        "name": "konpal",
+        "input": {
+            "Age": 30,
+            "Sex": "M",
+            "ChestPainType": "TA",
+            "RestingBP": 120,
+            "Cholesterol": 200,
+            "FastingBS": 0,
+            "RestingECG": "Normal",
+            "MaxHR": 150,
+            "ExerciseAngina": "Y",
+            "Oldpeak": 1.0,
+            "ST_Slope": "Up"
+        },
+        "prediction": 0
+    },
+    {
+        "name": "konpal",
+        "input": {
+            "Age": 30,
+            "Sex": "M",
+            "ChestPainType": "TA",
+            "RestingBP": 120,
+            "Cholesterol": 200,
+            "FastingBS": 0,
+            "RestingECG": "Normal",
+            "MaxHR": 150,
+            "ExerciseAngina": "Y",
+            "Oldpeak": 1.0,
+            "ST_Slope": "Up"
+        },
+        "prediction": 0
+    },
+    {
+        "name": "konpal",
+        "input": {
+            "Age": 30,
+            "Sex": "M",
+            "ChestPainType": "TA",
+            "RestingBP": 120,
+            "Cholesterol": 200,
+            "FastingBS": 0,
+            "RestingECG": "Normal",
+            "MaxHR": 150,
+            "ExerciseAngina": "Y",
+            "Oldpeak": 1.0,
+            "ST_Slope": "Up"
+        },
+        "prediction": 0
+    },
+    {
+        "name": "konpal",
+        "input": {
+            "Age": 30,
+            "Sex": "M",
+            "ChestPainType": "TA",
+            "RestingBP": 120,
+            "Cholesterol": 200,
+            "FastingBS": 0,
+            "RestingECG": "Normal",
+            "MaxHR": 150,
+            "ExerciseAngina": "Y",
+            "Oldpeak": 1.0,
+            "ST_Slope": "Up"
+        },
+        "prediction": 0
+    },
+    {
+        "name": "konpal",
+        "input": {
+            "Age": 30,
+            "Sex": "M",
+            "ChestPainType": "TA",
+            "RestingBP": 120,
+            "Cholesterol": 200,
+            "FastingBS": 0,
+            "RestingECG": "Normal",
+            "MaxHR": 150,
+            "ExerciseAngina": "Y",
+            "Oldpeak": 1.0,
+            "ST_Slope": "Up"
+        },
+        "prediction": 0
+    },
+    {
+        "name": "konpal",
+        "input": {
+            "Age": 30,
+            "Sex": "M",
+            "ChestPainType": "TA",
+            "RestingBP": 120,
+            "Cholesterol": 200,
+            "FastingBS": 0,
+            "RestingECG": "Normal",
+            "MaxHR": 150,
+            "ExerciseAngina": "Y",
+            "Oldpeak": 1.0,
+            "ST_Slope": "Up"
+        },
+        "prediction": 0
+    },
+    {
+        "name": "konpal",
+        "input": {
+            "Age": 30,
+            "Sex": "M",
+            "ChestPainType": "TA",
+            "RestingBP": 120,
+            "Cholesterol": 200,
+            "FastingBS": 0,
+            "RestingECG": "Normal",
+            "MaxHR": 150,
+            "ExerciseAngina": "Y",
+            "Oldpeak": 1.0,
+            "ST_Slope": "Up"
+        },
+        "prediction": 0
+    },
+    {
+        "name": "konpal",
+        "input": {
+            "Age": 30,
+            "Sex": "M",
+            "ChestPainType": "TA",
+            "RestingBP": 120,
+            "Cholesterol": 200,
+            "FastingBS": 0,
+            "RestingECG": "Normal",
+            "MaxHR": 150,
+            "ExerciseAngina": "Y",
+            "Oldpeak": 1.0,
+            "ST_Slope": "Up"
+        },
+        "prediction": 0
+    },
+    {
+        "name": "konpal",
+        "input": {
+            "Age": 30,
+            "Sex": "F",
+            "ChestPainType": "TA",
+            "RestingBP": 120,
+            "Cholesterol": 200,
+            "FastingBS": 0,
+            "RestingECG": "Normal",
+            "MaxHR": 150,
+            "ExerciseAngina": "Y",
+            "Oldpeak": 1.0,
+            "ST_Slope": "Up"
+        },
+        "prediction": 0
+    },
+    {
+        "name": "konpal",
+        "input": {
+            "Age": 30,
+            "Sex": "M",
+            "ChestPainType": "TA",
+            "RestingBP": 120,
+            "Cholesterol": 200,
+            "FastingBS": 0,
+            "RestingECG": "Normal",
+            "MaxHR": 150,
+            "ExerciseAngina": "Y",
+            "Oldpeak": 1.0,
+            "ST_Slope": "Up"
+        },
+        "prediction": 0
+    },
+    {
+        "name": "konpal",
+        "input": {
+            "Age": 30,
+            "Sex": "M",
+            "ChestPainType": "TA",
+            "RestingBP": 120,
+            "Cholesterol": 200,
+            "FastingBS": 0,
+            "RestingECG": "Normal",
+            "MaxHR": 150,
+            "ExerciseAngina": "Y",
+            "Oldpeak": 1.0,
+            "ST_Slope": "Flat"
+        },
+        "prediction": 0
+    },
+    {
+        "name": "ali",
+        "input": {
+            "Age": 30,
+            "Sex": "M",
+            "ChestPainType": "TA",
+            "RestingBP": 120,
+            "Cholesterol": 200,
+            "FastingBS": 1,
+            "RestingECG": "Normal",
+            "MaxHR": 150,
+            "ExerciseAngina": "Y",
+            "Oldpeak": 1.0,
+            "ST_Slope": "Up"
+        },
+        "prediction": 0
+    },
+    {
+        "name": "ali",
+        "input": {
+            "Age": 30,
+            "Sex": "M",
+            "ChestPainType": "TA",
+            "RestingBP": 120,
+            "Cholesterol": 200,
+            "FastingBS": 1,
+            "RestingECG": "Normal",
+            "MaxHR": 150,
+            "ExerciseAngina": "Y",
+            "Oldpeak": 1.0,
+            "ST_Slope": "Flat"
+        },
+        "prediction": 0
+    },
+    {
+        "name": "ali",
+        "input": {
+            "Age": 30,
+            "Sex": "M",
+            "ChestPainType": "TA",
+            "RestingBP": 120,
+            "Cholesterol": 200,
+            "FastingBS": 1,
+            "RestingECG": "LVH",
+            "MaxHR": 150,
+            "ExerciseAngina": "Y",
+            "Oldpeak": 1.0,
+            "ST_Slope": "Flat"
+        },
+        "prediction": 0
+    },
+    {
+        "name": "ali",
+        "input": {
+            "Age": 30,
+            "Sex": "M",
+            "ChestPainType": "TA",
+            "RestingBP": 120,
+            "Cholesterol": 200,
+            "FastingBS": 1,
+            "RestingECG": "ST",
+            "MaxHR": 150,
+            "ExerciseAngina": "Y",
+            "Oldpeak": 1.0,
+            "ST_Slope": "Flat"
+        },
+        "prediction": 0
+    }
+]
